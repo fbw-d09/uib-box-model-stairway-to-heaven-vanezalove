@@ -1,0 +1,100 @@
+.treppen1 {
+  border: 10px solid rgb(27, 69, 45);
+  width: 400px;
+  height: 400px;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+  width: 80px;
+  height: 80px;
+}
+
+.box1,
+.box3 {
+  background: rgb(115, 165, 115);
+  border: 10px solid lime;
+}
+
+.box2,
+.box4 {
+  background: lime;
+  border: 10px solid rgb(115, 165, 115);
+  border-style: dotted;
+}
+.box1 {
+  margin-left: 300px;
+}
+
+.box2 {
+  margin-left: 200px;
+}
+
+.box3 {
+  margin-left: 100px;
+}
+
+
+
+
+
+
+.treppen2
+ {
+  /*border: 10px solid rgb(101, 20, 86);*/
+  width: 400px;
+  height: 400px;
+  
+}
+
+
+.box5, .box6,
+.box7, .box8 {
+    width: 80px;
+    height: 80px;
+  background: rgb(107, 11, 217);
+  border: 10px solid rgb(249, 37, 245);
+  display: inline-block;
+  float: left;
+}
+
+.fill1, .fill2, .fill3 {
+    border: 10px solid lime;
+    background: lime;
+    display: inline-block;
+    float: left;
+}
+
+.fill1 {
+width: 80px;
+height: 80px;
+display: inline-block;
+}
+.fill2 {
+    width: 180px;
+    height: 80px;
+    display: inline-block;
+}
+.fill3 {
+    width: 280px;
+    height: 80px;
+    display: inline-block;
+}
+.box5 {
+    display: inline-block;
+    margin-right: 300px;
+}
+.box6 {
+    display: inline-block;
+    margin-right: 200px;
+
+}
+.box7 {
+    display: inline-block;
+    margin-right: 100px;
+}
+.box8 {
+    display: inline-block;
+}
